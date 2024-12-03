@@ -1,6 +1,6 @@
 #Version: 1.0
 #Python 3.11.0
-#Authors: Matthew, Jade, Kali
+#Authors: Matthew, Sanjana, Judy
 #Date: 12/2/2024
 #Description: Main script for real time presentation feedback system
 import os

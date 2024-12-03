@@ -1,6 +1,6 @@
 #Version: 1.0
 #Python 3.11.0
-#Authors: Matthew, Jade, Kali
+#Authors: Matthew, Sanjana, Judy
 #Date: 12/2/2024
 #Description: This file contains the VolumeReader class which takes serial data from an arduino
 import serial
